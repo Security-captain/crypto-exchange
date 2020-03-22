@@ -45,8 +45,11 @@
 当内存不足时，在linux控制台输入top可以查看java进程占用了大量内存（一个java进程占用1G以上），因为有很多jar包需要运行，所以需要控制某些jar包使用的内存，目前控制以下4个：
 
 java -jar -Xms128m -Xmx128m -Xmn200m -Xss256k  admin-api.jar
+
 java -jar -Xms512m -Xmx512m -Xmn200m -Xss256k  cloud.jar
+
 java -jar -Xms512m -Xmx512m -Xmn200m -Xss256k  wallet.jar
+
 java -jar -Xms512m -Xmx512m -Xmn200m -Xss256k  activity.jar
 
 #### 关于邮件&短信
