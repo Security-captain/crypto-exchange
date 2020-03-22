@@ -24,37 +24,67 @@
 
  **00_framework** 
 └─———admin   后台管理API 
+
 └─———bitrade-job     任务管理 
+
 └─———chat   OTC聊天 
+
 └─———cloud  SpringCloud微服务管理 
+
 └─———core   核心 
+
 └─———exchange   撮合交易引擎 
+
 └─———exchange-api   撮合交易API 
+
 └─———exchange-core   撮合交易核心 
+
 └─———jar   第三方类库 
+
 └─———market    市场行情API、K线生成 
+
 └─———otc-api   OTC交易API 
+
 └─———otc-core  OTC核心 
+
 └─———sql    SQL脚本 
+
 └─———ucenter-api    用户个人中心API 
+
 └─———wallet      钱包资产管理，负责与RPC对接 
+
 
  **01_wallet_rpc** 
 └─———act
+
 └─———bch
+
 └─———bitcoin
+
 └─———bsv
+
 └─———btm
+
 └─———ect
+
 └─———eos
+
 └─———erc-eusdt
+
 └─———erc-token
+
 └─———eth
+
 └─———eth-support
+
 └─———lib
+
 └─———ltc
+
 └─———rpc-common
+
 └─———usdt
+
 └─———xmr
 
  **02_App_Android** 
