@@ -1,43 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="erc-eusdt" />
-        <module name="rpc-common" />
-        <module name="bsv" />
-        <module name="bch" />
-        <module name="eos" />
-        <module name="erc-token" />
-        <module name="eth-support" />
-        <module name="act" />
-        <module name="ect" />
-        <module name="eth" />
-        <module name="usdt" />
-        <module name="ltc" />
-        <module name="btm" />
-        <module name="xmr" />
-        <module name="bitcoin" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="act" target="1.8" />
+      <module name="admin" target="1.8" />
       <module name="bch" target="1.8" />
       <module name="bitcoin" target="1.8" />
+      <module name="bitrade-job" target="1.8" />
+      <module name="bitrade-parent" target="1.8" />
       <module name="bsv" target="1.8" />
       <module name="btm" target="1.8" />
+      <module name="chat" target="1.8" />
+      <module name="cloud" target="1.8" />
+      <module name="core" target="1.8" />
       <module name="ect" target="1.8" />
       <module name="eos" target="1.8" />
       <module name="erc-eusdt" target="1.8" />
       <module name="erc-token" target="1.8" />
       <module name="eth" target="1.8" />
       <module name="eth-support" target="1.8" />
+      <module name="exchange" target="1.8" />
+      <module name="exchange-api" target="1.8" />
+      <module name="exchange-core" target="1.8" />
       <module name="ltc" target="1.8" />
+      <module name="market" target="1.8" />
+      <module name="otc-api" target="1.8" />
+      <module name="otc-core" target="1.8" />
       <module name="rpc-common" target="1.8" />
+      <module name="ucenter-api" target="1.8" />
       <module name="usdt" target="1.8" />
+      <module name="wallet" target="1.8" />
       <module name="wallet-rpc" target="1.8" />
       <module name="xmr" target="1.8" />
     </bytecodeTargetLevel>

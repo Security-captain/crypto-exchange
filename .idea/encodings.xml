@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bitrade-parent/admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/bitrade-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/chat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/cloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/exchange-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/exchange-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/exchange/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/market/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/otc-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/otc-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/ucenter-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitrade-parent/wallet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wallet-rpc/act/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wallet-rpc/bch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wallet-rpc/bitcoin/src/main/java" charset="UTF-8" />

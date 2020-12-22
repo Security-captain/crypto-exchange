@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/App_Android" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/01_wallet_rpc/pom.xml" />
         <option value="$PROJECT_DIR$/wallet-rpc/pom.xml" />
+        <option value="$PROJECT_DIR$/00_framework/pom.xml" />
       </list>
     </option>
   </component>

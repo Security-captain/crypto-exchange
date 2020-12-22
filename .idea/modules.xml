@@ -3,10 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/act/act.iml" filepath="$PROJECT_DIR$/wallet-rpc/act/act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/admin/admin.iml" filepath="$PROJECT_DIR$/bitrade-parent/admin/admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/bch/bch.iml" filepath="$PROJECT_DIR$/wallet-rpc/bch/bch.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/bitcoin/bitcoin.iml" filepath="$PROJECT_DIR$/wallet-rpc/bitcoin/bitcoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/bitrade-job/bitrade-job.iml" filepath="$PROJECT_DIR$/bitrade-parent/bitrade-job/bitrade-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/bitrade-parent.iml" filepath="$PROJECT_DIR$/bitrade-parent/bitrade-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/bsv/bsv.iml" filepath="$PROJECT_DIR$/wallet-rpc/bsv/bsv.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/btm/btm.iml" filepath="$PROJECT_DIR$/wallet-rpc/btm/btm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/chat/chat.iml" filepath="$PROJECT_DIR$/bitrade-parent/chat/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/cloud/cloud.iml" filepath="$PROJECT_DIR$/bitrade-parent/cloud/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/core/core.iml" filepath="$PROJECT_DIR$/bitrade-parent/core/core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/crypto-exchange.iml" filepath="$PROJECT_DIR$/.idea/crypto-exchange.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/ect/ect.iml" filepath="$PROJECT_DIR$/wallet-rpc/ect/ect.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/eos/eos.iml" filepath="$PROJECT_DIR$/wallet-rpc/eos/eos.iml" />
@@ -14,9 +20,17 @@
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/erc-token/erc-token.iml" filepath="$PROJECT_DIR$/wallet-rpc/erc-token/erc-token.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/eth/eth.iml" filepath="$PROJECT_DIR$/wallet-rpc/eth/eth.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/eth-support/eth-support.iml" filepath="$PROJECT_DIR$/wallet-rpc/eth-support/eth-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/exchange/exchange.iml" filepath="$PROJECT_DIR$/bitrade-parent/exchange/exchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/exchange-api/exchange-api.iml" filepath="$PROJECT_DIR$/bitrade-parent/exchange-api/exchange-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/exchange-core/exchange-core.iml" filepath="$PROJECT_DIR$/bitrade-parent/exchange-core/exchange-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/ltc/ltc.iml" filepath="$PROJECT_DIR$/wallet-rpc/ltc/ltc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/market/market.iml" filepath="$PROJECT_DIR$/bitrade-parent/market/market.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/otc-api/otc-api.iml" filepath="$PROJECT_DIR$/bitrade-parent/otc-api/otc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/otc-core/otc-core.iml" filepath="$PROJECT_DIR$/bitrade-parent/otc-core/otc-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/rpc-common/rpc-common.iml" filepath="$PROJECT_DIR$/wallet-rpc/rpc-common/rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/ucenter-api/ucenter-api.iml" filepath="$PROJECT_DIR$/bitrade-parent/ucenter-api/ucenter-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/usdt/usdt.iml" filepath="$PROJECT_DIR$/wallet-rpc/usdt/usdt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitrade-parent/wallet/wallet.iml" filepath="$PROJECT_DIR$/bitrade-parent/wallet/wallet.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/wallet-rpc.iml" filepath="$PROJECT_DIR$/wallet-rpc/wallet-rpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-rpc/xmr/xmr.iml" filepath="$PROJECT_DIR$/wallet-rpc/xmr/xmr.iml" />
     </modules>
