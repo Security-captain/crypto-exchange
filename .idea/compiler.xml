@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="erc-eusdt" />
+        <module name="rpc-common" />
+        <module name="bsv" />
+        <module name="bch" />
+        <module name="eos" />
+        <module name="erc-token" />
+        <module name="eth-support" />
+        <module name="act" />
+        <module name="ect" />
+        <module name="eth" />
+        <module name="usdt" />
+        <module name="ltc" />
+        <module name="btm" />
+        <module name="xmr" />
+        <module name="bitcoin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="act" target="1.8" />
+      <module name="bch" target="1.8" />
+      <module name="bitcoin" target="1.8" />
+      <module name="bsv" target="1.8" />
+      <module name="btm" target="1.8" />
+      <module name="ect" target="1.8" />
+      <module name="eos" target="1.8" />
+      <module name="erc-eusdt" target="1.8" />
+      <module name="erc-token" target="1.8" />
+      <module name="eth" target="1.8" />
+      <module name="eth-support" target="1.8" />
+      <module name="ltc" target="1.8" />
+      <module name="rpc-common" target="1.8" />
+      <module name="usdt" target="1.8" />
+      <module name="wallet-rpc" target="1.8" />
+      <module name="xmr" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="act" options="-parameters" />
+      <module name="bch" options="-parameters" />
+      <module name="bitcoin" options="-parameters" />
+      <module name="bsv" options="-parameters" />
+      <module name="btm" options="-parameters" />
+      <module name="ect" options="-parameters" />
+      <module name="eos" options="-parameters" />
+      <module name="erc-eusdt" options="-parameters" />
+      <module name="erc-token" options="-parameters" />
+      <module name="eth" options="-parameters" />
+      <module name="eth-support" options="-parameters" />
+      <module name="ltc" options="-parameters" />
+      <module name="rpc-common" options="-parameters" />
+      <module name="usdt" options="-parameters" />
+      <module name="wallet-rpc" options="-parameters" />
+      <module name="xmr" options="-parameters" />
+    </option>
+  </component>
+</project>

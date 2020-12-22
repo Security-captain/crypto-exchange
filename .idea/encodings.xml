@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/wallet-rpc/act/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/bch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/bitcoin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/bsv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/btm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/ect/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/eos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/erc-eusdt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/erc-token/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/eth-support/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/eth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/ltc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/rpc-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/usdt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-rpc/xmr/src/main/java" charset="UTF-8" />
+  </component>
+</project>
