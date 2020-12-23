@@ -1,55 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="act" target="1.8" />
-      <module name="admin" target="1.8" />
-      <module name="bch" target="1.8" />
-      <module name="bitcoin" target="1.8" />
-      <module name="bitrade-job" target="1.8" />
-      <module name="bitrade-parent" target="1.8" />
-      <module name="bsv" target="1.8" />
-      <module name="btm" target="1.8" />
-      <module name="chat" target="1.8" />
-      <module name="cloud" target="1.8" />
-      <module name="core" target="1.8" />
-      <module name="ect" target="1.8" />
-      <module name="eos" target="1.8" />
-      <module name="erc-eusdt" target="1.8" />
-      <module name="erc-token" target="1.8" />
-      <module name="eth" target="1.8" />
-      <module name="eth-support" target="1.8" />
-      <module name="exchange" target="1.8" />
-      <module name="exchange-api" target="1.8" />
-      <module name="exchange-core" target="1.8" />
-      <module name="ltc" target="1.8" />
-      <module name="market" target="1.8" />
-      <module name="otc-api" target="1.8" />
-      <module name="otc-core" target="1.8" />
-      <module name="rpc-common" target="1.8" />
-      <module name="ucenter-api" target="1.8" />
-      <module name="usdt" target="1.8" />
-      <module name="wallet" target="1.8" />
-      <module name="wallet-rpc" target="1.8" />
-      <module name="xmr" target="1.8" />
-    </bytecodeTargetLevel>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="erc-eusdt" />
+        <module name="bsv" />
+        <module name="bch" />
+        <module name="eos" />
+        <module name="admin" />
+        <module name="eth-support" />
+        <module name="cloud" />
+        <module name="act" />
+        <module name="exchange-api" />
+        <module name="bitrade-job" />
+        <module name="ect" />
+        <module name="exchange-core" />
+        <module name="eth" />
+        <module name="usdt" />
+        <module name="btm" />
+        <module name="ltc" />
+        <module name="xmr" />
+        <module name="ucenter-api" />
+        <module name="wallet" />
+        <module name="otc-core" />
+        <module name="rpc-common" />
+        <module name="otc-api" />
+        <module name="erc-token" />
+        <module name="market" />
+        <module name="core" />
+        <module name="chat" />
+        <module name="exchange" />
+        <module name="bitcoin" />
+      </profile>
+    </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="act" options="-parameters" />
+      <module name="admin" options="-parameters" />
       <module name="bch" options="-parameters" />
       <module name="bitcoin" options="-parameters" />
+      <module name="bitrade-job" options="-parameters" />
       <module name="bsv" options="-parameters" />
       <module name="btm" options="-parameters" />
+      <module name="chat" options="-parameters" />
+      <module name="cloud" options="-parameters" />
+      <module name="core" options="-parameters" />
       <module name="ect" options="-parameters" />
       <module name="eos" options="-parameters" />
       <module name="erc-eusdt" options="-parameters" />
       <module name="erc-token" options="-parameters" />
       <module name="eth" options="-parameters" />
       <module name="eth-support" options="-parameters" />
+      <module name="exchange" options="-parameters" />
+      <module name="exchange-api" options="-parameters" />
+      <module name="exchange-core" options="-parameters" />
       <module name="ltc" options="-parameters" />
+      <module name="market" options="-parameters" />
+      <module name="otc-api" options="-parameters" />
+      <module name="otc-core" options="-parameters" />
       <module name="rpc-common" options="-parameters" />
+      <module name="ucenter-api" options="-parameters" />
       <module name="usdt" options="-parameters" />
+      <module name="wallet" options="-parameters" />
       <module name="wallet-rpc" options="-parameters" />
       <module name="xmr" options="-parameters" />
     </option>
